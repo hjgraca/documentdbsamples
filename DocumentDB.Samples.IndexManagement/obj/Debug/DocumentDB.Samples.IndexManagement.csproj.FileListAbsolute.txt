@@ -1,0 +1,12 @@
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\obj\Debug\DocumentDB.Samples.IndexManagement.csprojResolveAssemblyReference.cache
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\appSettings.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\DocumentDB.Samples.IndexManagement.exe.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\DocumentDB.Samples.IndexManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\DocumentDB.Samples.IndexManagement.pdb
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\DocumentDB.Samples.Shared.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\DocumentDB.Samples.Shared.pdb
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\obj\Debug\DocumentDB.Samples.IndexManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.IndexManagement\obj\Debug\DocumentDB.Samples.IndexManagement.pdb

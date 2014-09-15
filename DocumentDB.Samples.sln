@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.DatabaseManagement", "DocumentDB.Samples.DatabaseManagement\DocumentDB.Samples.DatabaseManagement.csproj", "{2F473ECB-3265-462B-B8F4-D5286883D12A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DF914B1-91A8-4C78-989B-64D1ABEF6A17}"
+	ProjectSection(SolutionItems) = preProject
+		appSettings.config = appSettings.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.CollectionManagement", "DocumentDB.Samples.CollectionManagement\DocumentDB.Samples.CollectionManagement.csproj", "{F244DE0C-FC94-4D96-AECF-C92BBBAA6627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.DocumentManagement", "DocumentDB.Samples.DocumentManagement\DocumentDB.Samples.DocumentManagement.csproj", "{CF8BEC3A-2791-4C56-B036-60CB5AE9367A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.Shared", "DocumentDB.Samples.Shared\DocumentDB.Samples.Shared.csproj", "{16C11979-9B7C-4F35-BCD1-CAC434D79467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.UserManagement", "DocumentDB.Samples.UserManagement\DocumentDB.Samples.UserManagement.csproj", "{82B1A5F3-6BDE-4A70-9F3A-17ECEDEA64F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.IndexManagement", "DocumentDB.Samples.IndexManagement\DocumentDB.Samples.IndexManagement.csproj", "{35C7BBEB-B390-42F2-A301-15CE198CE79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.Queries", "DocumentDB.Samples.Queries\DocumentDB.Samples.Queries.csproj", "{6B5021ED-8B3A-4E38-92DB-612C4ECDC580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB.Samples.ServerSideScripts", "DocumentDB.Samples.ServerSideScripts\DocumentDB.Samples.ServerSideScripts.csproj", "{FF2F469C-8A1C-4B9C-A83A-0D4712FFCBC9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sqlbuvsts01:8080/main
+		SccProjectUniqueName0 = DocumentDB.Samples.DatabaseManagement\\DocumentDB.Samples.DatabaseManagement.csproj
+		SccProjectName0 = DocumentDB.Samples.DatabaseManagement
+		SccAuxPath0 = http://sqlbuvsts01:8080/main
+		SccLocalPath0 = DocumentDB.Samples.DatabaseManagement
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = DocumentDB.Samples.CollectionManagement\\DocumentDB.Samples.CollectionManagement.csproj
+		SccProjectName1 = DocumentDB.Samples.CollectionManagement
+		SccAuxPath1 = http://sqlbuvsts01:8080/main
+		SccLocalPath1 = DocumentDB.Samples.CollectionManagement
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = DocumentDB.Samples.UserManagement\\DocumentDB.Samples.UserManagement.csproj
+		SccProjectName2 = DocumentDB.Samples.UserManagement
+		SccAuxPath2 = http://sqlbuvsts01:8080/main
+		SccLocalPath2 = DocumentDB.Samples.UserManagement
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = DocumentDB.Samples.IndexManagement\\DocumentDB.Samples.IndexManagement.csproj
+		SccProjectName3 = DocumentDB.Samples.IndexManagement
+		SccAuxPath3 = http://sqlbuvsts01:8080/main
+		SccLocalPath3 = DocumentDB.Samples.IndexManagement
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName4 = DocumentDB.Samples.ServerSideScripts\\DocumentDB.Samples.ServerSideScripts.csproj
+		SccProjectName4 = DocumentDB.Samples.ServerSideScripts
+		SccAuxPath4 = http://sqlbuvsts01:8080/main
+		SccLocalPath4 = DocumentDB.Samples.ServerSideScripts
+		SccProvider4 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F473ECB-3265-462B-B8F4-D5286883D12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F473ECB-3265-462B-B8F4-D5286883D12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F473ECB-3265-462B-B8F4-D5286883D12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F473ECB-3265-462B-B8F4-D5286883D12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F244DE0C-FC94-4D96-AECF-C92BBBAA6627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F244DE0C-FC94-4D96-AECF-C92BBBAA6627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F244DE0C-FC94-4D96-AECF-C92BBBAA6627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F244DE0C-FC94-4D96-AECF-C92BBBAA6627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8BEC3A-2791-4C56-B036-60CB5AE9367A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8BEC3A-2791-4C56-B036-60CB5AE9367A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8BEC3A-2791-4C56-B036-60CB5AE9367A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8BEC3A-2791-4C56-B036-60CB5AE9367A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C11979-9B7C-4F35-BCD1-CAC434D79467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C11979-9B7C-4F35-BCD1-CAC434D79467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C11979-9B7C-4F35-BCD1-CAC434D79467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C11979-9B7C-4F35-BCD1-CAC434D79467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B1A5F3-6BDE-4A70-9F3A-17ECEDEA64F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B1A5F3-6BDE-4A70-9F3A-17ECEDEA64F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B1A5F3-6BDE-4A70-9F3A-17ECEDEA64F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B1A5F3-6BDE-4A70-9F3A-17ECEDEA64F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C7BBEB-B390-42F2-A301-15CE198CE79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C7BBEB-B390-42F2-A301-15CE198CE79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C7BBEB-B390-42F2-A301-15CE198CE79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C7BBEB-B390-42F2-A301-15CE198CE79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5021ED-8B3A-4E38-92DB-612C4ECDC580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5021ED-8B3A-4E38-92DB-612C4ECDC580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5021ED-8B3A-4E38-92DB-612C4ECDC580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5021ED-8B3A-4E38-92DB-612C4ECDC580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2F469C-8A1C-4B9C-A83A-0D4712FFCBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2F469C-8A1C-4B9C-A83A-0D4712FFCBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2F469C-8A1C-4B9C-A83A-0D4712FFCBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2F469C-8A1C-4B9C-A83A-0D4712FFCBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

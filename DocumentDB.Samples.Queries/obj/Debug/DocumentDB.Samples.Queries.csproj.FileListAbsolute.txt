@@ -1,0 +1,9 @@
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\appSettings.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\DocumentDB.Samples.Queries.exe.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\DocumentDB.Samples.Queries.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\DocumentDB.Samples.Queries.pdb
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\obj\Debug\DocumentDB.Samples.Queries.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.Queries\obj\Debug\DocumentDB.Samples.Queries.pdb

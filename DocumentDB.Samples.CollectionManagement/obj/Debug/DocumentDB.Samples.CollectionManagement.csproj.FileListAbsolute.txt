@@ -1,0 +1,9 @@
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.exe.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\appSettings.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\DocumentDB.Samples.CollectionManagement.pdb
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\obj\Debug\DocumentDB.Samples.CollectionManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.CollectionManagement\obj\Debug\DocumentDB.Samples.CollectionManagement.pdb

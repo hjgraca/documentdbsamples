@@ -1,0 +1,9 @@
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\appSettings.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\DocumentDB.Samples.UserManagement.exe.config
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\DocumentDB.Samples.UserManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\DocumentDB.Samples.UserManagement.pdb
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\obj\Debug\DocumentDB.Samples.UserManagement.exe
+C:\Users\henrique.graca\Documents\Visual Studio 2013\Projects\documentdd_codesample\C#\DocumentDB.Samples.UserManagement\obj\Debug\DocumentDB.Samples.UserManagement.pdb
